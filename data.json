@@ -1,0 +1,37 @@
+{
+    "config": {
+        "name": "Maxwell Alferes",
+        "course_number": "CIS Python Programming",
+        "course_description": "This is an Introduction to Python Class and this is my project.",
+        "profile_info": "My name's Max.  I am a transfer for Merced Community College, so this would be my first year at Stan State.  I enjoy listening to music, playing video games, and working out.",
+        "linkedin": "1",
+        "theme": "solar",
+        "profile_image": "/static/project_images/8b37b350-a2d4-4548-8ab4-1b8464fe2e47.PNG"
+    },
+    "projects": [
+        {
+            "id": 1764813998209,
+            "image": "/static/project_images/dad1c8bd-40ae-4e10-874b-ed77307af59c.jpg",
+            "title": "Time Sheet",
+            "website_url": "https://time-sheet-ktjs.onrender.com",
+            "github_url": "https://github.com/malferes/Time-Sheet.git",
+            "description": "This is a time sheet application to use when trying to keep track of tasks.  What it does is is asks for the date, tasks worked on, and how long it took to complete it.  Then it will archive it and you can put another task down.  It's goal is to keep track of the tasks you worked on.  "
+        },
+        {
+            "id": 1764814374359,
+            "image": "/static/project_images/02628301-bf1f-43a0-a57c-e6b29cadda54.jpg",
+            "title": "Calorie Tracker",
+            "website_url": "https://calorie-tracker-gznt.onrender.com",
+            "github_url": "https://github.com/malferes/Calorie-Tracker.git",
+            "description": "The application is a calorie tracker.  Put the food you ate and how much calories it is and it will log it.  If multiple food is inputted the total amount of calories will reflect."
+        },
+        {
+            "id": 1764814615776,
+            "image": "/static/project_images/a8395dca-bd2e-4235-aef7-800ce0510cc6.png",
+            "title": "Workout Tracker",
+            "website_url": "https://workout-tracker-4nz6.onrender.com",
+            "github_url": "https://github.com/malferes/Workout-Tracker.git",
+            "description": "This is a workout tracker.  Put the date, what type of workout, and the minutes spent on the workout.  The program will log it for you and keep track of what you did. "
+        }
+    ]
+}
